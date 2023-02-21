@@ -34,7 +34,7 @@ while True:
 
       break  
 
-  if n == 1:
+  elif n == 1:
 
       print("Podaj 2 liczby")  
 
@@ -44,7 +44,7 @@ while True:
 
       print(dodawanie(k,l))  
 
-  if n == 2:  
+  elif n == 2:  
 
       print("Podaj 2 liczby")
 
@@ -54,7 +54,7 @@ while True:
 
       print(odejmowanie(k,l))  
 
-  if n == 3:  
+  elif n == 3:  
 
       print("Podaj 2 liczby")  
 
@@ -64,7 +64,7 @@ while True:
 
       print(mnozenie(k,l))  
 
-  if n == 4:  
+  elif n == 4:  
 
       print("Podaj 2 liczby")  
 
